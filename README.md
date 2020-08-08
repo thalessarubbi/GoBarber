@@ -4,7 +4,7 @@
     GoBarber
 </h1>
 
-<div style="display: flex; flex-direction: column; justify-content:center; align-items: center;">
+<div align="center">
     <h4 style="margin-bottom: 0;"> 🏁  Finished.  🏁</h4>
     <h5 style="margin-top: 0;">(for now)</h5>
 </div>
@@ -28,19 +28,19 @@
 ## 🎨 Layout
 ### 🕸 Web
 
-<div style="display: flex; justify-content: space-between">
-    <img style="width: 48%" alt="Login GoBarber web" src="assets/images/web/logon-web.svg" />
-    <img style="width: 48%" alt="Profile GoBarber web" src="assets/images/web/profile-web.svg" />
+<div align="center">
+    <img style="width: 49%" alt="Login GoBarber web" src="assets/images/web/logon-web.svg" />
+    <img style="width: 49%" alt="Profile GoBarber web" src="assets/images/web/profile-web.svg" />
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-top: 10px;">
-    <img style="width: 48%" alt="Register GoBarber web" src="assets/images/web/register-web.svg" />
-    <img style="width: 48%" alt="GoBarber web" src="assets/images/web/dashboard-web.svg" />
+<div align="center">
+    <img style="width: 49%" alt="Register GoBarber web" src="assets/images/web/register-web.svg" />
+    <img style="width: 49%" alt="GoBarber web" src="assets/images/web/dashboard-web.svg" />
 </div>
 
 ### 📱 Mobile
 
-<div style="display: flex; justify-content: space-between">
+<div align="center">
     <img style="width: 30%" alt="Login GoBarber mobile" src="assets/images/mobile/logon-mobile.svg" />
     <img style="width: 30%" alt="GoBarber appointment mobile" src="assets/images/mobile/appointment-mobile.svg" />
     <img style="width: 30%" alt="GoBarber barber list mobile" src="assets/images/mobile/barber-list-mobile.svg" />
