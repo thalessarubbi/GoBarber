@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber" src="/assets/images/banner.svg" />
+    <img alt="GoBarber" src="assets/images/banner.svg" />
     <br>
     GoBarber
 </h1>
@@ -28,23 +28,23 @@
 ## 🎨 Layout
 ### 🕸 Web
 
-<p align="center">
-    <img alt="Login GoBarber web" src="/assets/images/web/logon-web.svg" />
-    <img alt="Profile GoBarber web" src="/assets/images/web/profile-web.svg" />
-</p>
+<div style="display: flex; justify-content: space-between">
+    <img style="width: 48%" alt="Login GoBarber web" src="assets/images/web/logon-web.svg" />
+    <img style="width: 48%" alt="Profile GoBarber web" src="assets/images/web/profile-web.svg" />
+</div>
 
-<p align="center">
-    <img alt="Register GoBarber web" src="/assets/images/web/register-web.svg" />
-    <img alt="GoBarber web" src="/assets/images/web/dashboard-web.svg" />
-</p>
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+    <img style="width: 48%" alt="Register GoBarber web" src="assets/images/web/register-web.svg" />
+    <img style="width: 48%" alt="GoBarber web" src="assets/images/web/dashboard-web.svg" />
+</div>
 
 ### 📱 Mobile
 
-<p align="center">
-    <img alt="Login GoBarber mobile" src="/assets/images/mobile/logon-mobile.svg" />
-    <img alt="GoBarber barber list mobile" src="/assets/images/mobile/barber-list-mobile.svg" />
-    <img alt="GoBarber appointment mobile" src="/assets/images/mobile/appointment-mobile.svg" />
-</p>
+<div style="display: flex; justify-content: space-between">
+    <img style="width: 30%" alt="Login GoBarber mobile" src="assets/images/mobile/logon-mobile.svg" />
+    <img style="width: 30%" alt="GoBarber appointment mobile" src="assets/images/mobile/appointment-mobile.svg" />
+    <img style="width: 30%" alt="GoBarber barber list mobile" src="assets/images/mobile/barber-list-mobile.svg" />
+</div>
 
 ## 🎩 Features
 
