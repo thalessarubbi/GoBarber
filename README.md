@@ -28,7 +28,7 @@
 
 ## 🎯 Goal
 
-<p align="center">GoBarber is a projectdeveloped to help barbers to manage their appointments with customers and at the same time enable customers to create appointments with the barbers.</p>
+<p align="center">GoBarber is a project developed to help barbers to manage their appointments with customers and at the same time enable customers to create appointments with barbers.</p>
 
 ## 🎨 Layout
 ### 🕸 Web
