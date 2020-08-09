@@ -83,7 +83,7 @@ Besides, it would be great that you have a code editor to work on this project, 
 #### To run the mobile app It's important that you change te 'baseURL' value to your IP address in [this](mobile/src/services/api.ts) file.
 
 ### 🕵️‍♀️ Hint 🕵️‍♂️ ###
-#### You can also check the Insomna file below to check for api features and how to use them.
+#### You can also access the Insomnia file below to check for api features and how to use them.
 <p align="center">
     <a href="assets/insomnia/Insomnia-gobarber.json">
         <img src="https://img.shields.io/badge/-insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white" />
