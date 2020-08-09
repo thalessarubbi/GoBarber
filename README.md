@@ -29,21 +29,21 @@
 ### 🕸 Web
 
 <div align="center">
-    <img style="width: 49%" alt="Login GoBarber web" src="assets/images/web/logon-web.svg" />
-    <img style="width: 49%" alt="Profile GoBarber web" src="assets/images/web/profile-web.svg" />
+    <img width="49%" alt="Login GoBarber web" src="assets/images/web/logon-web.svg" />
+    <img width="49%" alt="Profile GoBarber web" src="assets/images/web/profile-web.svg" />
 </div>
 
 <div align="center">
-    <img style="width: 49%" alt="Register GoBarber web" src="assets/images/web/register-web.svg" />
-    <img style="width: 49%" alt="GoBarber web" src="assets/images/web/dashboard-web.svg" />
+    <img width="49%" alt="Register GoBarber web" src="assets/images/web/register-web.svg" />
+    <img width="49%" alt="GoBarber web" src="assets/images/web/dashboard-web.svg" />
 </div>
 
 ### 📱 Mobile
 
 <div align="center">
-    <img style="width: 30%" alt="Login GoBarber mobile" src="assets/images/mobile/logon-mobile.svg" />
-    <img style="width: 30%" alt="GoBarber appointment mobile" src="assets/images/mobile/appointment-mobile.svg" />
-    <img style="width: 30%" alt="GoBarber barber list mobile" src="assets/images/mobile/barber-list-mobile.svg" />
+    <img width="33%" alt="Login GoBarber mobile" src="assets/images/mobile/logon-mobile.svg" />
+    <img width="33%" alt="GoBarber appointment mobile" src="assets/images/mobile/appointment-mobile.svg" />
+    <img width="33%" alt="GoBarber barber list mobile" src="assets/images/mobile/barber-list-mobile.svg" />
 </div>
 
 ## 🎩 Features
