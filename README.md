@@ -2,6 +2,11 @@
     <img alt="GoBarber" src="assets/images/banner.svg" />
     <br>
     GoBarber
+    <br>
+    <img src="https://img.shields.io/github/issues/thalessarubbi/GoBarber" />
+    <img src="https://img.shields.io/github/forks/thalessarubbi/GoBarber" />
+    <img src="https://img.shields.io/github/stars/thalessarubbi/GoBarber" />
+    <img src="https://img.shields.io/github/license/thalessarubbi/GoBarber" />
 </h1>
 
 <div align="center">
@@ -16,7 +21,7 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-features">Features</a> • 
  <a href="#-requirements">Requirements</a> • 
- <a href="#%EF%B8%8F%EF%B8%8F-runing-project">Running project</a> • 
+ <a href="#%EF%B8%8F-runing-project-%EF%B8%8F">Running project</a> • 
  <a href="#-technologies">Technologies</a> • 
  <a href="#%EF%B8%8F-author">Author</a>
 </p>
@@ -72,10 +77,19 @@ Before we begin, you'll need to have the following dependencies installed:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/).
 Besides, it would be great that you have a code editor to work on this project, such as [VSCode](https://code.visualstudio.com/).
 
-## 🏃‍♀️🏃‍♂️ Runing project
+## 🏃‍♀️ Runing project 🏃‍♂️
 
-### ATENTION ###
-### To run the mobile app It's important that you change te 'baseURL' value to your IP address on [this](mobile/src/services/api.ts) file
+### ⚠️ Attention ⚠️ ###
+#### To run the mobile app It's important that you change te 'baseURL' value to your IP address in [this](mobile/src/services/api.ts) file.
+
+### 🕵️‍♀️ Hint 🕵️‍♂️ ###
+#### You can also check the Insomna file below to check for api features and how to use them.
+<p align="center">
+    <a href="assets/insomnia/Insomnia-gobarber.json">
+        <img src="https://img.shields.io/badge/-insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white" />
+    </a>
+</p>
+
 ```bash
 #### Start sever ####
 
