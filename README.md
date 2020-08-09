@@ -12,13 +12,13 @@
 <p align="center">GoBarber is a project developed at the GoStack bootcamp of Rocketseat company using Node.js, React and React Native.</p>
 
 <p align="center">
- <a href="#goal">Goal</a> •
- <a href="#layout">Layout</a> • 
- <a href="#features">Features</a> • 
- <a href="#requirements">Requirements</a> • 
- <a href="#running-project">Running project</a> • 
- <a href="#technologies">Technologies</a> • 
- <a href="#author">Author</a>
+ <a href="#-goal">Goal</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-features">Features</a> • 
+ <a href="#-requirements">Requirements</a> • 
+ <a href="#%EF%B8%8F%EF%B8%8F-runing-project">Running project</a> • 
+ <a href="#-technologies">Technologies</a> • 
+ <a href="#%EF%B8%8F-author">Author</a>
 </p>
 
 ## 🎯 Goal
