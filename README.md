@@ -80,7 +80,7 @@ Besides, it would be great that you have a code editor to work on this project, 
 ## 🏃‍♀️ Runing project 🏃‍♂️
 
 ### ⚠️ Attention ⚠️ ###
-#### To run the mobile app It's important that you change te 'baseURL' value to your IP address in [this](mobile/src/services/api.ts) file.
+#### To run the mobile app It's important that you change the 'baseURL' value to your IP address in [this](mobile/src/services/api.ts) file.
 
 ### 🕵️‍♀️ Hint 🕵️‍♂️ ###
 #### You can also access the Insomnia file below to check for api features and how to use them.
