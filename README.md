@@ -159,7 +159,7 @@ $ yarn start android
 - [Redis](https://redis.io/)
 - [TypeORM](https://typeorm.io/#/)
 - [Axios](https://github.com/axios/axios)
-- [styled-components](https://github.com/axios/axios)
+- [styled-components](https://styled-components.com/)
 - [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ## ✍️ Author
